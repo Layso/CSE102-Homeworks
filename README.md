@@ -1,5 +1,5 @@
 # CSE102-Homeworks
-This repository contains all homeworks of the CSE 102 lecture
+This repository contains all homeworks of the Gebze Institute of Technology, CSE 102 lecture, Spring 2016.
 -
 -
 Homework #01
@@ -96,4 +96,4 @@ king.c
 
 Contains one function which checks the validness of a king's move.
 
-This homework edited at 05.07.2016 due to an error on isBishopMovable() function.
+This homework edited on 05.07.2016 due to an error on isBishopMovable() function.
