@@ -97,3 +97,20 @@ king.c
 Contains one function which checks the validness of a king's move.
 
 This homework edited on 05.07.2016 due to an error on isBishopMovable() function.
+
+-
+-
+Homework #06
+-
+
+Part-1
+
+In this part of the homework, program will calculate the character frequency of a given string. It will handle only the ASCII letters and digits. Any other characters such as punctuation marks and whitespaces will not be considered.
+
+Part-2
+
+In this part, program will find the substring(s) in a given string. Instead of matching the exact substring, program will only match the odd indexed characters. 
+
+Part-3
+
+In this part, program will count the occurrences of a substring in the given string by using the matcher function on part2. Only odd indexed characters will match.
