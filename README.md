@@ -31,8 +31,6 @@ In this part program takes width and height informations from user and calculate
 Homework #03
 -
 
-Part-1
-
 Program asks users for an integer and checks if the number is an odd, a factorial or a narcissistic number, depending on the user choice.
 
 
@@ -41,3 +39,61 @@ Odd Number: Dividable by 2
 Factorial Number: Multiplication of decreasing consecutive numbers from a number to 1
 
 Narcissistic Number: A k-digit number n is called narcissistic if it is equal to the sum of k-th powers of its digits
+
+-
+-
+Homework #04
+-
+
+Part-1
+
+This part is a sine and cosine calculator by using the Taylor series.
+
+Part-2
+
+In this part program takes a number and a character as inputs from user and prints that number and a border written in that given character.
+
+-
+-
+Homework #05
+-
+
+This program is the first part of a chess game. Functions in this program checks the validness of a piece's movement to a target cell on the chess board. Game will be completed in sooner homeworks. Due to the length of the homework, file divided into smaller files which contains group of related functions.
+
+main.c
+
+This file contains the functions completely given by teachers. main() function takes commands from user and makes proper function calls. emptyBuffer() function clears the buffer to take inputs without problems.
+
+board.c
+
+This file contains functions related to board. These functions initialize board at the starting position and prints the board.
+
+helper.c
+
+All the helper functions to check the validness of a piece (given by teachers or self written) are in this file.
+
+pawn.c
+
+Contains one function which checks the validness of a pawn's move.
+
+rook.c
+
+Contains one function which checks the validness of a rook's move.
+
+knight.c
+
+Contains one function which checks the validness of a knight's move.
+
+bishop.c
+
+Contains one function which checks the validness of a bishop's move.
+
+queen.c
+
+Contains one function which checks the validness of a queen's move.
+
+king.c
+
+Contains one function which checks the validness of a king's move.
+
+This homework edited at 05.07.2016 due to an error on isBishopMovable() function.
