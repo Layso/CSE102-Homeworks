@@ -25,3 +25,19 @@ This part is similar to HW01 part1. Program intended to find the final note of a
 Part-2
 
 In this part program takes width and height informations from user and calculates the area and perimeter of certain geometric shapes.
+
+-
+-
+Homework #03
+-
+
+Part-1
+
+Program asks users for an integer and checks if the number is an odd, a factorial or a narcissistic number, depending on the user choice.
+
+
+Odd Number: Dividable by 2
+
+Factorial Number: Multiplication of decreasing consecutive numbers from a number to 1
+
+Narcissistic Number: A k-digit number n is called narcissistic if it is equal to the sum of k-th powers of its digits
