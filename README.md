@@ -1,5 +1,5 @@
 # CSE102-Homeworks
-This repository contains all homeworks of the Gebze Institute of Technology, CSE 102 lecture, Spring 2016.
+This repository contains all homeworks of the Gebze Institute of Technology, CSE 102 lecture, Spring 2016. Comments and coding style are edited before publishing but algorithm and coding kept same as the files sent to the teachers unless the code works. 
 -
 -
 Homework #01
