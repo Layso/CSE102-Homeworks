@@ -1,6 +1,6 @@
 # CSE102-Homeworks
 This repository contains all homeworks of the Gebze Institute of Technology, CSE 102 lecture, Spring 2016. Comments and coding style are edited before publishing but algorithm and coding kept same as the files sent to the teachers unless the code works. 
--
+
 -
 Homework #01
 -
@@ -13,7 +13,7 @@ Part-2
 
 First goal is calculating a persons age in day format. Second goal is calculating same person's age considering that the person is living in another planet and planet has different hour-day-month relation than Earth has.
 
--
+
 -
 Homework #02
 -
@@ -26,7 +26,7 @@ Part-2
 
 In this part program takes width and height informations from user and calculates the area and perimeter of certain geometric shapes.
 
--
+
 -
 Homework #03
 -
@@ -40,7 +40,7 @@ Factorial Number: Multiplication of decreasing consecutive numbers from a number
 
 Narcissistic Number: A k-digit number n is called narcissistic if it is equal to the sum of k-th powers of its digits
 
--
+
 -
 Homework #04
 -
@@ -53,7 +53,7 @@ Part-2
 
 In this part program takes a number and a character as inputs from user and prints that number and a border written in that given character.
 
--
+
 -
 Homework #05
 -
@@ -98,7 +98,7 @@ Contains one function which checks the validness of a king's move.
 
 This homework edited on 05.07.2016 due to an error on isBishopMovable() function.
 
--
+
 -
 Homework #06
 -
