@@ -1,5 +1,4 @@
 /*----------------------------------------------------------------------------*/
-/*                                                                            */
 /* HW10_151044001_Deniz_Can_Erdem_Yılmaz                                      */
 /* HW10_151044001_Deniz_Can_Erdem_Yılmaz.c                                    */
 /* Created on 04/05/2016 by Deniz_Can_Erdem_Yılmaz                            */
@@ -14,13 +13,14 @@
 /* -----                                                                      */
 /* This file is written by considering the rules on code convention. So a row */
 /* is max 80 column, tab width is 4 and coded with the desired code design    */
-/*                                                                            */
 /*----------------------------------------------------------------------------*/
+
 
 
 /* Include(s) */
 #include<stdio.h>
 #include<string.h>
+
 
 
 /* Define(s) */
@@ -31,6 +31,7 @@
 #define OUTPUT_FILE "deneme.txt"
 
 
+
 /* Typedef(s) */
 typedef struct
 {
@@ -38,7 +39,6 @@ typedef struct
 	char name[STRING_SIZE];
 	char surname[STRING_SIZE];
 } student;
-
 
 typedef struct
 {
@@ -48,14 +48,12 @@ typedef struct
 	char surname[STRING_SIZE];
 } teacher;
 
-
 typedef struct
 {
 	int code;
 	char name[STRING_SIZE];
 	int ID;
 } lesson;
-
 
 typedef struct
 {
@@ -65,7 +63,6 @@ typedef struct
 	int duration;
 	int code;
 } schedule;
-
 
 typedef struct
 {
@@ -707,4 +704,5 @@ void statusChange(int *flag,char *name)
 	
 	return;
 }
+
 /* End of the HW10_151044001_Deniz_Can_Erdem_Yılmaz.c */
